@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+venv/
+.venv/
+# AI が操作中に覚えた教訓（実行すると自動で作られる）
+memory.txt
